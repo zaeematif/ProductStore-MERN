@@ -1,22 +1,29 @@
-<h1 align="center">Product Store 🚀</h1>
+# MERN Product Management App
 
+## Overview
 
+This is a full-stack **MERN (MongoDB, Express, React, Node.js)** application for managing products. The app allows users to **add and delete products** easily with a clean and responsive UI built using **React + Vite**.
 
-### Setup .env file
+## Features
 
-```shell
-MONGO_URI=your_mongo_uri
-PORT=5000
-```
+✅ Add new products  
+✅ Delete products  
+✅ Responsive design for all screen sizes  
+✅ Fast front-end performance with **React Vite**  
+✅ Backend powered by **Express & MongoDB**  
+✅ Uses **Mongoose** for database management  
 
-### Run this app locally
+---
 
-```shell
-npm run build
-```
+## Technologies Used
 
-### Start the app
+- **Frontend**: React (Vite)  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB + Mongoose  
+- **Styling**: CSS / TailwindCSS (if used)  
+- **State Management**: useState, useEffect (or Redux if implemented)  
 
-```shell
-npm run start
-```
+---
+
+![image](https://github.com/user-attachments/assets/c0892261-fda1-4c7b-bf22-ba19aae52734)
+
